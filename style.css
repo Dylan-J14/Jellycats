@@ -1,6 +1,21 @@
+img{
+	min-height: 299px;
+	max-height: 300px;
+}  
 #animals-list {
-	font-size: 30px; {
-#amuseables-list
-font-size: 30px; {
-#bagsandaccesories-list
-font-size: 30px ;                 
+	font-size: 30px; }
+
+#amuseables-list {
+	font-size: 30px;
+}
+
+#bagsandaccesories-list {
+	font-size: 30px;
+}
+
+#Baby-list {
+	font-size: 30px;
+}
+ 
+
+        
